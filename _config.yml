@@ -1,16 +1,16 @@
 # Site settings
-title: Pudhina
+title: ZCY的技术博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  描述：让搜索引擎更好地找到你的网站
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://yanglanhang.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: 黑白谬
+  github: yanglanhang
+  linkedin: yanglanhang
+  email: chunyang6802a@vip.163.com
 
 
 # Syntax highlighting
